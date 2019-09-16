@@ -1,0 +1,14 @@
+D:\MAO_TEST\Console_APP\Main\Main\bin\Debug\Main.exe.config
+D:\MAO_TEST\Console_APP\Main\Main\bin\Debug\Main.exe
+D:\MAO_TEST\Console_APP\Main\Main\bin\Debug\Main.pdb
+D:\MAO_TEST\Console_APP\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+D:\MAO_TEST\Console_APP\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\MAO_TEST\Console_APP\Main\Main\obj\Debug\Main.exe
+D:\MAO_TEST\Console_APP\Main\Main\obj\Debug\Main.pdb
+D:\MAO_TEST\Table_to Html\Main\Main\bin\Debug\Main.exe.config
+D:\MAO_TEST\Table_to Html\Main\Main\bin\Debug\Main.exe
+D:\MAO_TEST\Table_to Html\Main\Main\bin\Debug\Main.pdb
+D:\MAO_TEST\Table_to Html\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+D:\MAO_TEST\Table_to Html\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\MAO_TEST\Table_to Html\Main\Main\obj\Debug\Main.exe
+D:\MAO_TEST\Table_to Html\Main\Main\obj\Debug\Main.pdb
